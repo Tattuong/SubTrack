@@ -1,0 +1,19 @@
+{
+  "app": "SubTrack",
+  "package": "com.SubTrackMNG.SubTrack",
+  "remoteConfig": "https://api2.blwsmartware.net/N311.json",
+  "products": [
+    { "productId": "st_pack_1", "type": "consumable", "stars": 50, "name": "SubTrack Coin Pack 1" },
+    { "productId": "st_pack_2", "type": "consumable", "stars": 100, "name": "SubTrack Coin Pack 2" },
+    { "productId": "st_pack_3", "type": "consumable", "stars": 200, "name": "SubTrack Coin Pack 3" },
+    { "productId": "st_pack_4", "type": "consumable", "stars": 350, "name": "SubTrack Coin Pack 4" },
+    { "productId": "st_pack_5", "type": "consumable", "stars": 500, "name": "SubTrack Coin Pack 5" },
+    { "productId": "st_pack_6", "type": "consumable", "stars": 750, "name": "SubTrack Coin Pack 6" },
+    { "productId": "st_pack_7", "type": "consumable", "stars": 1000, "name": "SubTrack Coin Pack 7" },
+    { "productId": "st_pack_8", "type": "consumable", "stars": 1500, "name": "SubTrack Coin Pack 8" },
+    { "productId": "st_pack_9", "type": "consumable", "stars": 2200, "name": "SubTrack Coin Pack 9" },
+    { "productId": "st_pack_10", "type": "consumable", "stars": 3000, "name": "SubTrack Coin Pack 10" },
+    { "productId": "st_remove_ads", "type": "non-consumable", "stars": 0, "name": "SubTrack Remove Ads" },
+    { "productId": "st_pro", "type": "non-consumable", "stars": 0, "name": "SubTrack Pro" }
+  ]
+}
